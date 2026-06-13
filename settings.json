@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "minecraftserver02345.aternos.me:31179",
+    "ip": "minecraftserver02345.aternos.me",
     "port": 31179,
     "version": "",
     "try-creative": false
