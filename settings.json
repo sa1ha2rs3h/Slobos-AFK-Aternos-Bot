@@ -8,7 +8,7 @@
   "server": {
     "ip": "minecraftserver02345.aternos.me",
     "port": 31179,
-    "version": "",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
